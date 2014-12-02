@@ -3,7 +3,7 @@
     <meta charset="iso-8859-1" />
     <title># PONTO PET - VETERINÁRIA E PET SHOP #</title>
     <link href="css/estilos.css" rel="stylesheet" />
-</head><!-- casa feia-->
+</head><!--ola-->
 <body>
 <?php   include 'conectar.php'; 
 ?>
